@@ -49,38 +49,24 @@ rel="stylesheet">
             </div>
             </div>
     </section>
-
+    <!-- resume -->
         <section class="resume">
             <div class="rmain">
             <h2 >Resume</h2>
             <h3 >Education</h3>
-        </div>
-
-        <ol class="timeline-list">
-
-            <li class="timeline-item">
-
-                <h4 class="h4 timeline-item-title">SMAN 61 Jakarta</h4>
+            <h4 class="h4 timeline-item-title">SMAN 61 Jakarta</h4>
 
                 <span>2017 — 2020</span>
 
-            <img src="" alt="">
-
-            </li>
-
-            <li class="timeline-item">
+            <img src=".\Asset\image\61.jpg" alt="" width="200">
 
             <h4 class="h4 timeline-item-title">Universitas Brawijaya</h4>
 
             <span>2020 — Sekarang</span>
-
+            <img src=".\Asset\image\ub.jpg" alt=""width="200">
             <p class="timeline-text">
-                Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est
-                omnis..
             </p>
-            </li>
-        </ol>
-            </div>
+        </div>
     </section>
     </body>
 </html>

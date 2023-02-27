@@ -100,7 +100,13 @@ nav ul li a:hover{
     padding: 100px 0px;
     background-color: #93BFCF;
 }
+
 .rmain{
-    
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
