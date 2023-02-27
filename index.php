@@ -52,31 +52,27 @@ rel="stylesheet">
 
         <section class="resume">
             <div class="rmain">
-            <h2 class="h2 article-title">Resume</h2>
-            <h3 class="h3">Education</h3>
+            <h2 >Resume</h2>
+            <h3 >Education</h3>
         </div>
 
         <ol class="timeline-list">
 
             <li class="timeline-item">
 
-                <h4 class="h4 timeline-item-title">University school of the arts</h4>
+                <h4 class="h4 timeline-item-title">SMAN 61 Jakarta</h4>
 
-                <span>2007 — 2008</span>
+                <span>2017 — 2020</span>
 
-            <p class="timeline-text">
-                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
-                quas molestias
-                exceptur.
-            </p>
+            <img src="" alt="">
 
             </li>
 
             <li class="timeline-item">
 
-            <h4 class="h4 timeline-item-title">New york academy of art</h4>
+            <h4 class="h4 timeline-item-title">Universitas Brawijaya</h4>
 
-            <span>2006 — 2007</span>
+            <span>2020 — Sekarang</span>
 
             <p class="timeline-text">
                 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est
